@@ -13,9 +13,6 @@
         }
     ],
     "require": {
-        "csa12/yii2-db": "dev-master",
-        "csa12/yii2-grid": "dev-master",
-        "csa12/yii2-i18n": "dev-master"
     },
     "autoload": {
 		"psr-4": {
