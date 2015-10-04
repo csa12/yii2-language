@@ -1,0 +1,25 @@
+{
+    "name": "csa12/yii2-static",
+    "type": "library",
+    "description": "CSA enhancements and additions",
+    "keywords": ["yii2","static"],
+    "homepage": "https://github.com/csa12/yii2-static",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Marc Huizinga",
+            "email": "1333vr12@gmail.com",
+            "role": "Creator"
+        }
+    ],
+    "require": {
+        "csa12/yii2-db": "dev-master",
+        "csa12/yii2-grid": "dev-master",
+        "csa12/yii2-i18n": "dev-master"
+    },
+    "autoload": {
+		"psr-4": {
+			"csa\\static\\": ""
+		}
+    }
+}
