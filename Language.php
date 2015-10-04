@@ -1,11 +1,11 @@
 <?php
 /**
  * @copyright Copyright &copy; Marc Huizinga, CSA, 2015
- * @package yii2-static
+ * @package yii2-language
  * @version 0.0.1
  */
 
-namespace csa\static;
+namespace csa\language;
 
 use Yii;
 use yii\web\Controller;

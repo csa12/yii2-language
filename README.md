@@ -1,10 +1,10 @@
-Yii 2.0 additions by CSA
+Yii 2.0 language additions by CSA
 ==============================
 
-These additions for Yii 2.0 add certain features for development purposes 
-by CSA and can perhaps be of use to others.
+These language additions for Yii 2.0 add certain features 
+for development purposes by CSA and can perhaps be of use to others.
 
-This repository is available via <https://github.com/csa12/yii2-static>.
+This repository is available via <https://github.com/csa12/yii2-language>.
 For license information check the [LICENSE](LICENSE.md)-file.
 
 Installation
@@ -15,13 +15,13 @@ The preferred way to install is through [composer](http://getcomposer.org/downlo
 Either run
 
 ```
-composer require csa12/yii2-static
+composer require csa12/yii2-language
 ```
 
 or add
 
 ```json
-"csa12/yii2-static": "dev-master",
+"csa12/yii2-language": "dev-master",
 ```
 
 to the require section of your composer.json.

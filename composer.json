@@ -1,9 +1,9 @@
 {
-    "name": "csa12/yii2-static",
+    "name": "csa12/yii2-language",
     "type": "library",
-    "description": "Yii 2.0 additions by CSA",
+    "description": "Yii 2.0 language additions by CSA",
     "keywords": ["yii2","static"],
-    "homepage": "https://github.com/csa12/yii2-static",
+    "homepage": "https://github.com/csa12/yii2-language",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -16,7 +16,7 @@
     },
     "autoload": {
 		"psr-4": {
-			"csa\\static\\": ""
+			"csa\\language\\": ""
 		}
     }
 }
