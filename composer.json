@@ -1,7 +1,7 @@
 {
     "name": "csa12/yii2-static",
     "type": "library",
-    "description": "CSA enhancements and additions",
+    "description": "Yii 2.0 additions by CSA",
     "keywords": ["yii2","static"],
     "homepage": "https://github.com/csa12/yii2-static",
     "license": "BSD-3-Clause",
